@@ -8,5 +8,5 @@ This work involves plotting the contour lines showing changes in vertical stress
 
 
 $$
-## \Delta \sigma_v = \frac{q}{\pi} \left[ \alpha + \sin \alpha \cos(\alpha + 2\beta) \right] \text{ where } \alpha \text{ and } \beta \text{ are in radians}
+\Delta \sigma_v = \frac{q}{\pi} \left[ \alpha + \sin \alpha \cos(\alpha + 2\beta) \right] \text{ where } \alpha \text{ and } \beta \text{ are in radians}
 $$
