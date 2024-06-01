@@ -7,3 +7,6 @@ This work involves plotting the contour lines showing changes in vertical stress
 ## The formula of the change in vertical stress under a strip load
 
 ![formula](https://github.com/mucahitbz/Foundation_Engineering/assets/106281879/d7207ca5-9242-414d-98fc-b89935a28481)
+$$
+\Delta \sigma_v = \frac{q}{\pi} \left[ \alpha + \sin \alpha \cos(\alpha + 2\beta) \right] \text{ where } \alpha \text{ and } \beta \text{ are in radians}
+$$
